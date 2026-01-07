@@ -1,0 +1,1134 @@
+﻿Title of the initiative;Brief description;Leading UN agency;Blockchain usage and application;Who built the solution;Token used;Access and participation model;Reason for private/hybrid blockchain;Is project open-source?;Primary SDGs addressed;SDG indicators and targets;"Beneficiaries; Number affected/involved";Blockchain success metrics;Key challenges in implementation and key barriers to adoption;Lessons learned;Scalability Potential;Impact assessment with KPIs;Geographical scope;Project lifecycle information;Project type;Funding amount;Funding sources and budget;Partnership models;Governance framework: policies or frameworks guiding project implementation;Legal considerations;Documentation and reports;Project's website and social media;Start date;End date;Status;Ethereum mainnet or Layer-2 (specify);If not Mainnet or L2s
+Blockchain as a Decentralizing Technology Platform to Accelerate Climate Action;"R&D programme designing permissioned-DLT meta-registries for Article 6 carbon markets; provides architecture & simulations for the World Bank Climate Warehouse / Climate Action Data Trust (CAD Trust) to prevent double counting of carbon units. ";"(UNEP-CCC) 
+United Nations Environment Programme – Copenhagen Climate Centre ";"Climate action; Governance (carbon-market infrastructure)";;;"Federated validator nodes run by national registries & standards bodies; public read access to metadata.";;;SDG 13, SDG 12;13.2.1, 12.b.1;20+ national registries & 10+ private standards connected in three simulations (2019-2022);"• Three full-scale simulations completed; ■ 16 registry nodes & 20 observer nodes in Phase II; ■ Operational launch Oct 2022.";"Inter-registry interoperability; governance model for decentralised validators.";"Open-source, low-energy chains (e.g., Chia) can meet integrity needs while minimising footprint; country co-design is critical.";"High – CAD Trust now operated by an independent Singapore entity; onboarding of further registries under way.";;Global (nodes in Bhutan, Chile, Japan, Senegal, UK, etc.).;"Prototype 2019; simulations 2019-2022; operational roll-out 2023-ongoing.";;;"UNEP-CCC; World Bank Climate Warehouse donors.";UN-multilateral partnership with MDBs, governments & NGOs.;"CAD Trust Council (govts + registries) + Technical Committee; GDPR-compliant data-model.";"Paris Agreement Article 6 guidance; EU GDPR for personal data.";IETA press release (Oct 2022), Simulation III report (WB), UNEP-CCC policy brief “Carbon Market Challenges & Blockchain”.;https://unepccc.org/project/blockchain-as-a-decentralizing-technology-platform-to-accelerate-climate-action/;2019 (prototype);2020;Finished;;
+Blockchain Livestock Traceability Pilot in Papua New Guinea;This pilot project aimed to enhance transparency and trust in the pig farming sector by implementing a blockchain-based system to track and record critical information about livestock, including pedigree, feeding, health, and treatment history. The initiative sought to empower farmers and provide consumers with verifiable data on livestock products.;FAO;Supply Chain Management, Digital Identity, Governance;;;Permissioned;;;SDG 2, SDG 12;2.3.1, 12.3.1;"Pig farmers in Jiwaka Province, Papua New Guinea; consumers seeking trustworthy livestock products";"Implementation of the blockchain system; number of farmers adopting the system; improvement in market access for pig farmers";"Technical literacy among farmers; infrastructure limitations; ensuring data accuracy and integrity";"Importance of stakeholder engagement and training; need for supportive infrastructure and policies";"High; potential for replication in other regions and extension to other livestock sectors";"Increase in farmer incomes; reduction in livestock-related fraud; enhanced consumer trust";Jiwaka Province, Papua New Guinea;Pilot phase initiated in March 2019;;;FAO, ITU, and national partners;Public-private;Aligned with national e-agriculture strategies and policies;Compliance with national regulations on data management and agriculture;https://openknowledge.fao.org/server/api/core/bitstreams/66ce8120-ed1b-4469-a4ca-08529d3b0774/content?utm_source;https://www.fao.org/e-agriculture/news/pig-farmers-papua-new-guinea-capitalize-blockchain-technology;Mar.19;;Ongoing;;
+AgroWeb3;AgroWeb3 is a collaborative initiative between IFAD and the Inter-American Development Bank (IDB) Group, leveraging the LACChain blockchain infrastructure. The project aims to develop digital wallets tailored for smallholder farmers, enhancing financial inclusion and data sovereignty.;IFAD;Supply Chain;;;;;;SDG 9, 17;SDG 9.c, 17.7;Farmers;;;;High, as long as internet penetration and digital literacy allow users to use the tool;;Latin America & Caribbean;;;;;;;;;;;;;;
+TRACE Blockchain;"TRACE Blockchain is blockchain-based solution ensuring full transparency and efficiency in agricultural funding flows. By leveraging Ethereum and Hyperledger Fabric, TRACE tracks funds from donors to end beneficiaries ensuring efficient allocation to farmers.
+TRACE blockchain project, a collaboration between Scytalelabs and UN- IFAD International Fund for Agricultural Development (IFAD), has won the prestigious 2024 World Future Awards!";IFAD;Governance;https://scytalelabs.com/;ETH;Private blockchain;;;SDG 2, 9;SDG 2.3, 9.3;Farmers (pilot project in Kenya);Number of farmers benefiting from trace blockchain-tracked funds;Digital literacy, Competition with other fund transfer methods;;Scalable to other agencies that disclose funds in weak governance territories;;Global (pilot in Kenya);;;;;public-private partnership;;;;;19.Jul.22;;;;
+Blockchain for Fiscal Transparency;Guinea-Bissau, a small nation on the coast of West Africa, has made a quantum leap into the future. In May 2024, the country successfully launched a blockchain platform—as part of the country’s program with the IMF, under the Extended Credit Facility (ECF)—designed to revolutionize its public wage bill management. Following four years collaborating with the Fund and technological advisor Ernst & Young, and with financial support from selected partners, Guinea-Bissau is moving ahead with implementing this new technology. This initiative, one of the first of its type for Africa, marks a significant leap toward better governance and transparency in government finances. It underscores the country’s commitment to tackling governance challenges and enhancing public service delivery.;IMF;"Fiscal Transparency
+
+Using undelying tokenization and smart contract functionality to enable traceability of wage bill funds, validation of payment conditions for salaries and pensions, and alerts and notifications to relevant stakeholders.";Technology Vendor, Ernst and Young  LLP (EY);ERC 20 token type, but there is no issuance of a native token for end users;Private Blockchain;Primarily data protection for public sector government agencies in a fragile state;No;SDG 16 promoting effective and accountable institutions that develop benefits for everyone and tackles corruption. SDG 17 partnerships for goals, in this case on the use of technology and innovation to enhance institutions.;"1) Reduce wage bill to tax revenue ration ; 2) Reduce the ghost employees or unauthorized employees at the public administration; 3) Reduce the nominal wage bill to GDP ratio; 4) Reduce the payments in cash for salaries and pensions";"Ministry of Finances, Ministry of Public Administration
+
+2000 in the initial pilot and 10000+ in the scaling-up.";The the digital platform is live at the Ministry of Finance and Public Administration, it could potentially track the information for all 26,600 public officials and 8,100 pensioners once the project is scaled-up in the next months.;Funding, capacity of public officials, data integrity, political economy, ownership;Ownership needs to be top down and bottom-up, countries needs electricity and  full access to internet to be able to implement this kind of platform;Potentially any country, as long as some digital infrastructure and data integrity are solid enough to run the platform efficiently;Wage bill to Tax Revenue Ratio has decreased from 84 percent in 2020 to 51 percent in 2024. The use of cash for salaries and pensions payments has decreased by 60 percent. The nominal wage bill to GDP has reduced from 6.5 percent of GDP in 2021 to 4.5 percent of GDP in 2024.;Guinea-Bissau;Execution;Blockchain solution is part of the larger fiscal transparency and digital government agenda for Guinea-Bissau under the IMF guidance.;USD 2 million for pilot project at the Ministries of Finance and Public Administration;UNDP, FRANCE, IMF,  Afritac West, AfDB (for scaling-up);Public-private partnership;IMF Governance Diagnostic Report, Different national strategies on anti-corruption, AML, and digitalization;Compliance with legal considerations to hire public officials in Guinea-Bissau;IMF Anticorruption Challenge: https://imfilab.brightidea.com/D394;Sensitive Reform, only information at imf.org: https://www.imf.org/en/News/Articles/2024/10/02/cf-guinea-bissau-is-using-blockchain-to-boost-fiscal-transparency;June 2020;Pilot finished in 2024. Scaling-up to start soon;Pending the official launch of the public procurement for the scaling-up to six more ministries (financed by AfdB) ;See AJ column;Ehereum testnet with planned pathway to Ethereum L2 in the future
+ITCILO Digital Credentials Platform;The International Training Centre of the ILO (ITCILO) transitioned from paper-based certificates to digital credentials in 2020. These credentials are verifiable, shareable, and stored on the Ethereum blockchain, enhancing the authenticity and accessibility of learning achievements. ;International Training Centre of the ILO (ITCILO);Governance, Digital Identity;;None (hashes only);"Public verifiability; only ITCILO staff can write hashes";;;SDG 4, SDG 8;4.4.1, 8.5.1;Learners and professionals participating in ITCILO courses;"180,000 block-chain verifiable, open badges compliant digital credentials have been issued since 2020; improved verification processes
+
+> 56 000 learners from 230+ ITCILO courses (2020-2025)";"Staff training; long-term badge governance";"Blockchain cuts fraud and postage cost; UX must hide crypto complexity";;"Number of credentials issued; user engagement metrics";Global;"Production since September 2020; continuous operation";;;Internal ITCILO resources;UN-private SaaS partnership (Accredible);ITCILO “Internal Circular on Digital Certification”, Aug 2019;"GDPR compliance; data hashed, not stored on-chain";"Internal guidelines report (May 2023)
+
+ITCILO Digital Badges";https://www.itcilo.org/digital-credentials;Sep.20;Ongoing;Execution / scale-up;;
+Call for DAO Applications to Support a UN IGF Dynamic Coalition;The UN IGF Dynamic Coalition on Blockchain Assurance & Standardization (DC-BAS) is soliciting proposals for production-ready DAO management platforms to support its governance, operations, and transparency. This follows a pilot DAO implementation in 2023 that did not meet coalition needs.;UN Internet Governance Forum (UN IGF);;;;;;;SDG 16, 17;;DC-BAS members and broader UN IGF stakeholder community;;"The 2023 DAO pilot failed to meet operational requirements; the coalition is now seeking a platform better aligned with its principles of transparency, decentralization, accountability, and permissionless access.";;Intended to support a global, multi-stakeholder coalition — scalability is implicit;;Global;"Currently in the discovery/submission phase; submissions due by March 1, 2025";;;;Call for collaboration through technology partnership and community participation;;;;https://gbaglobal.org/blog/2025/01/30/call-for-dao-applications-to-support-a-un-igf-dynamic-coalition/ ;;;;;
+EARN Project;The EARN Project is an initiative by UN Women Europe and Central Asia aimed at empowering women artists through the exploration of Non-Fungible Tokens (NFTs). As the first NFT initiative launched by a United Nations entity, EARN seeks to raise awareness and educate women artists about the opportunities within the NFT market, thereby promoting economic empowerment and visibility in the digital art space.;UN Women;NFT collection;Third party;ETH;Public;;;SDG 5, 8;"SDG 5.b; 8.3";150 Women artists in Europe and Central Asia;Number of artists using NFTs, Financial volumes exchanged between artists;Digital literacy, Technology penetration;"Use of Blockhain to monetise art globally
+Need for broader education on blockchain and digital assets";Global;Increase in global market access for local artists;Europe and Central Asia;"Closed; Possible continuation in broader context";Other;;;Public-private partnership;"National copyright legislation; national legislation on blockchain (partial)
+";"Compliance with national legislation (part of lex specialis - securities law) on digital assets
+";"Consultancy report EARN project
+https://drive.google.com/file/d/1GtXk59XcFHgkbESH98PDefR213GApX6n/view?usp=sharing";https://www.instagram.com/nft.forwomen?igsh=MXgxYzlrdW84bmI1bw==;November 2022;"May/June 2023
+";"Completed
+";"Ethereum Mainnet
+";
+Blockchain Pilot Project for Cash Transfers in Refugee Camps ;A pilot project leveraging blockchain to transfer salaries to Syrian refugee women enrolled in UN Women’s cash-for-work programmes in Jordan’s Za’atari and Azraq refugee camps. Payments are accessed via iris scans at WFP-linked supermarkets.;UN Women (in partnership with WFP);Financial inclusion and digital payments;;;"Permissioned access; participation through enrolment in Oasis cash-for-work programme";;;SDG 1, 5, 8;SDG 1.2, 5.5, 8.5;"467 women directly during pilot (2019–2020); potential to scale to 2,500+ yearly participants in Oasis programmes
+";"3,246 unique transactions; 100% satisfaction with disbursement in Azraq; 94% in Za’atari; 92% confirmed no cash shortfalls; 89% (Azraq) and 78% (Za’atari) found digital wallet better for financial management";Initial delays in knowing when funds were deposited, temporary lack of available cash at supermarkets, digital literacy gaps among women, COVID-19 lockdown affecting physical operations;"Flexibility in disbursement empowers beneficiaries, digital wallets support privacy, safety, and savings; IrisGuard system enhances financial control, blockchain enables continuity during emergencies like pandemics";Project expanded to all four Oasis centers as of June 2020, planned rollout to host communities and potential inter-agency blockchain coordination;Oxford University field reports and focus groups with 101 beneficiaries, weekly disbursement led to increased financial independence, use of digital data for trend analysis and program refinement;Jordan: Za’atari and Azraq refugee camps;;;;;;"Corporate-level MoU on innovation collaboration; in line with Grand Bargain commitments";privacy and data protection;;;2019 June;2024 December;Closed;;
+Mongolia Sustainable Cashmere Platform;UNDP Mongolia Country Office set up a pilot initiative that tracks cashmere along the value chain on a blockchain-based platform (Mongolia Sustainable Cashmere Platform). It aims to enhance traceability and authenticity of the products and trust on the markets. ;UNDP;Supply Chain Management;;ETH;;;;;;;;;"""UNDP recommends a public
+view, permissioned write structure for any
+further development of the experiment""";;;;;;;;;;;;;;;;;
+CedarCoin;Blockchain-based token system to promote reforestation and protect Lebanon's ancient cedar forests. Each token represents a planted tree, encouraging environmental engagement.;UNDP;Climate Action;;CedarCoin (CED);Public blockchain;;;SDG 13, SDG 15;15.1.1, 13.2.1;Lebanese communities, diaspora, NGOs;Trees planted, funds raised, user engagement;Transparency, participation, verification;Blockchain can engage diaspora and promote reforestation;High;Forest cover increase, reforestation traceability;Lebanon;"Initiation and planning phases completed; execution ongoing";;;"Contributions from Lebanese diaspora; partnerships with NGOs and private sector";Public-private;"Guided by UNDP policies; collaboration with Lebanese governmental bodies";;https://innovation.eurasia.undp.org/resource/cedarcoin-lite-paper/?utm_source;https://cedarcoinlb.com/?utm_source=chatgpt.com;2018;;Ongoing;;
+Blockchain-Enabled Renewable Energy Solutions in Lebanon;This initiative explores the application of blockchain technology to enhance the adoption of renewable energy in Lebanon. It focuses on developing commercial-scale blockchain-based energy business models, including peer-to-peer energy trading, renewable energy certificates (RECs), and microgrid applications, tailored to Lebanon's specific context.;UNDP;Climate Action;;SI Tokens;Public blockchain;;;SDG 7, SDG 13;7.2.1, 13.2.1;Lebanese citizens, energy producers, communities;;;Blockchain supports energy transparency and access;High;;Lebanon;Execution;;;"Contributions from the Kingdom of the Netherlands; partnerships with NGOs and private sector";"Public-private partnerships; community-based collaborations";;;https://www.undp.org/sites/g/files/zskgke326/files/migration/lb/CEDRO-_-Blockchain-Report-25.11.2020_for-publication.pdf?utm_source;https://www.cedro-undp.org/publications/blockchain-enabled-solution-for-the-uptake-of-renewable-energy-in-lebanon?utm_source;2020;;Ongoing;;
+Land Registry Enhancement using Blockchain;This initiative aimed to improve land registry systems through blockchain technology to prevent land disputes and enhance transparency in property transactions.;UNDP;Digital identity;;;;;;SDG 16;SDG 16.6;Local communities, property owners, and government.;Reduction in land disputes, improved transparency in property transactions.;Adoption of new technology by local authorities and citizens, integration with existing systems.;Importance of local government buy-in and trust-building with communities. ;High, as it could be replicated in other regions with similar land management issues.;;Panchkula, Haryana, India;Execution ;;;;Public-private partnership;;Data privacy laws, digital identity verification. ;https://www.undp.org/blog/using-blockchain-make-land-registry-more-reliable-india ;;2020;Finished (when?);Finished (wasn't extended after the pilot phase);;
+Traceability for Sustainable Garment and Footwear (Cotton Blockchain);"This initiative aims to improve transparency and traceability in the industry to address labor rights, environmental impacts, and counterfeiting. Led by UNECE and UN/CEFACT, it focuses on creating global standards, policy recommendations, and capacity-building to foster sustainable practices. The initiative includes ""The Sustainability Pledge"" for stakeholders to commit to ethical and environmentally responsible actions.";UNECE;"Supply chain management
+
+The pilots ran on a blockchain-based platform constructed with Ethereum testnets. This allowed for permissioned access, tailored to different value chain actors and managed by the UNECE governance framework. The infrastructure was powered by a hybrid open-source stack integrated with the Ethereum testnet environment.";;;;;;SDG 12;;;;;;;;Egypt, Italy, Switzerland, Germany;;Pilot project as part of XB project on enhancing transparency and traceabilit in garment and footwear supply chains;;EU;;;;https://unece.org/trade/documents/2023/11/session-documents/updated-report-blockchain-pilots-project-garment-and;https://unece.org/trade/traceability-sustainable-garment-and-footwear;2020;2023;completed;;
+Blue Circle Marine Plastic Waste Management Platform;The project provides technical support, funding, and tools to help coastal fishermen and low-income residents collect marine waste. The collected plastic waste is transported to processing plants to be recycled into high-value products, with a portion of the revenue shared with the collectors. IoT and blockchain are used to trace the entire process, from collection and transportation to processing and manufacturing, with this data made available to consumers via QR codes for transparency.;UNEP;"Supply-chain traceability; Climate & Waste Management
+
+The whole life cycle traceability of ocean plastic, including collection, transportation, storage, sorting, regeneration and product manufacturing process";Zhejiang Lanjing Tech (BlueCircle);Use JWT-based tokens to implement user authentication and authorization;Consortium Chain;Based on data protection and performance requirements, a consortium chain implementation scheme is adopted to ensure that data is only shared within the consortium and to improve consensus efficiency;No;SDG 14, SDG 12, SDG 1;14.1.1, 12.5.1, 1.2.2;"10240 boats, 6300 fishers/residents; 6 000 fishers receive low-interest loans.
+
+280 recycling related enterprises";"2980 t plastic removed (2019-2024); ¥130 m (≈ US$18 m) low-interest loans issued; average extra income ¥1 200 (≈ US$166)  / month per collector";"Lack of uniform standard system in the ocean plastics market; maintaining data integrity across informal actors.";"Financial incentives + transparent data boost community uptake; blockchain builds buyer trust in recycled content.";High – official plan to expand to nine coastal provinces by 2025;"Tonnes collected; number of boats/users; loans disbursed; QR scans on final products.";Zhejiang Province coastline (pilot) → national expansion → global (Southeast Asia & other coastal areas);"Pilot 2019; province-wide rollout 2021-2024; national scale-up target 2025; global promotion 2030.";Attach to existing project;¥6000 m (≈ US$8.3 m);"Private enterprise investment (BlueCircle); Sale of recycled pellets; government environmental protection financial funds.";Diversified cooperative relationship with enterprises as the main body (investment implementation), community participation and government (policy guidance);"Overseen by China's Ministry of Ecology & Environment; UNEP Best-Practice guidance for plastics.";Complies with China’s Marine  Environmental Protection Law & 2020 Solid-Waste Amendment.;"UNEP Champions profile; People’s Daily feature; Veolia news release; USPTO patent 12229733 (“blockchain B/L for marine plastic”). ";https://www.unep.org/championsofearth/laureates/2023/blue-circle;2019 (platform launch);Ongoing;scale-up;Consortium Chain;Consortium Chain Solution Based on Open Source Ethereum Transformation
+Climate Chain Coalition (CCC);CCC explores how blockchain technology – in combination with other emerging technologies - can improve transparency, traceability, and accountability in carbon markets, emissions reduction, and climate finance. It facilitates the creation of verifiable carbon credits, supports decentralized climate finance, and ensures the sustainability of projects through blockchain-based solutions. In addition to its Web3 focus, the CCC also facilitates multi-stakeholder collaboration towards the development of the data and digital innovation infrastructure – global and local digital public goods – for multistakeholder climate action empowerment;UNFCCC;;;Carbon Credits (such as tokenized carbon assets) are issued as digital tokens on blockchain, allowing transparent trading and verification of carbon reduction efforts.;;;;SDG 13, 17;SDG 13.2, 17.17;Governments, climate finance organizations, NGOs, companies investing in sustainable development, and communities affected by climate change. In particular, vulnerable populations in developing nations stand to benefit from improved climate adaptation funding.;Increased verification and transparency in carbon credit trading, reduction in transaction costs for carbon credits, enhanced access to climate finance for developing countries, the number of carbon credits issued and traded on the platform.;Ensuring blockchain solutions can handle large-scale emissions reductions and carbon trading at a global level, the lack of uniform regulatory frameworks for blockchain and carbon credit markets can hinder adoption, ensuring that different blockchain platforms can work together in a seamless manner, blockchain can be complex and may require significant technical expertise to implement and maintain.;;The integration of blockchain in carbon markets could revolutionize global emissions reduction efforts by increasing transparency, reducing fraud, and lowering transaction costs, making it easier to scale up climate financing.;"Reduction in carbon emissions from verified projects.
+Increase in the volume of carbon credits traded via blockchain.
+Amount of green finance mobilized through blockchain mechanisms.
+";Global, with particular focus on regions in need of climate finance, such as developing countries in Africa, Asia, and Latin America.;;;;"Private sector partnerships (e.g., IBM, Stellar Foundation).
+Public and government-backed climate funds (e.g., contributions from countries and multilateral climate finance organizations).
+";Public-private partnership;Governed by the UNFCCC’s Paris Agreement and other international climate protocols.;;;https://www.climatechaincoalition.org/;2018;;;;
+Stronger Together;"To commemorate the global population reaching 8 billion, UNFPA partnered with digital artist Cecilie Waagner Falkenstrøm to launch its first-ever NFT collection. The ""Stronger Together"" series comprises 800 AI-generated artworks, with proceeds supporting UNFPA's work in maternal health, sexual and reproductive health, and preventing gender-based violence.";UNFPA;NFT collection;;ETH;ETH Mainnet;;;SDG 5;SDG 5.6;NFT collectors;Financial volumes exchanged, Number of NFT holders;;;Limited (limited number of NFTs, declining trend over the time).;;Global;;;;;Public-private partnership;;;;https://opensea.io/collection/8billion;;;;;
+Grassroots Economics;Emergency response platform for stakeholders to access digital payments;UNICEF;"Financial Inclusion and Digital Payments
+
+Community currency issuance and tracking, smart contract-based voucher systems, decentralized transaction records, custodial and non-custodial wallet infrastructure, and impact data indexing from blockchain.";Grassroots Economics;Sarafu token;Public blockchain with custodial and non-custodial wallet access;;Unknown;1,8;"Indicator 1.4.1 (Access to financial services); Indicator 8.10.2 (Number of adults with account at financial institution or mobile-money-service provider)";Low-income and vulnerable communities, ~60,000 users reached;"Over $3 million in trades; USSD wallet adoption; test coverage >80% for key modules";"Complex integration of USSD with blockchain; fragmented repositories; loss of key team member";"Onboarding must be clear; avoid token airdrops without utility; prioritize user-owned vouchers over volatile crypto";Yes - proven in Kenya, expanding to Cameroon with Red Cross, scalable through USSD and modular backend;"High USSD adoption; large user base; measurable trade volume ($3M); successful migration to mono-repo architecture";Country and regional (Kenya, Cameroon);"Seed stage design and prototyping 2021-2022; pilot deployment 2020-2022";Built for blockchain;ETH 25,11 (= $64 979,71 contrat value at time of disbursement);UNICEF Venture Fund and possibly other sources (e.g., WFP partnership);Public-private and research collaborations;"UNICEF Venture Fund compliance requirements; open source governance; GPL3 license on all repos; internal and public contribution guidelines";"Data protection policy in place; risks of crypto volatility; private key loss implications noted";https://www.grassrootseconomics.org/theme/pdfs/sarafu-network.pdf;https://www.unicefventurefund.org/portfolio/grassroots-economics-integrating-emergency-response-platform-stakeholders-access-digital, https://www.grassrootseconomics.org/about;May 2021;Ongoing;Graduate from Venture Fund investment, no further engagement with the Fund;Celo (EVM-compatible Layer-2 in Ethereum ecosystem);
+eSusFarm Uganda;Blockchain platform to improve access of smallholder farmers to insurance during climate disasters;UNICEF;"Climate Action, Financial Inclusion and Digital Payments
+
+Crop insurance, transaction logging, marketplace services, anticipatory action";eSusFarm in partnership with Etherisc and Ethereum Foundation;;(Inferred, based on Ethereum) Public blockchain;;Yes;SDG 2 - Zero Hunger, SDG 13 - Climate Action;Indicator 2.4.1 - sustainable agriculture, Indicator 13.1.1 - disaster risk reduction strategies;Smallholder farmers in Uganda;Number of farmers insured, claims processed, AI tool usage, market access improvement;Low trust in insurance, affordability, limited awareness and data connectivity;"Bundled services enhance adoption; accessibility via SMS increases rural reach";Strong, having already tested its blockchain-based crop insurance solution in Kenya, where 20,000 farmers were insured and 6,000 payouts processed. The platform is now being tailored for Uganda with upcoming pilots, and has secured strategic agreements in Liberia and Zimbabwe. However, unlocking full scalability will require improved on-ground capacity for farmer onboarding, deeper collaboration with insurance regulators, and expanded data infras to support localized weather indexing and AI-driven decision tools.;Farmer uptake, payout delivery, productivity gains, and coverage expansion;Uganda (with partnerships in Kenya, Liberia, Zimbabwe);Seed stage investment and protoyping with Venture Fund 2023-2024, with pilot in Uganda scheduled for spring 2025;Built for blockchain;$100,000 (UNICEF);UNICEF ($100K), Microsoft Azure credits ($150K), Expo Live Dubai ($75K);Public-private partnerships, accelerator-driven collaboration;Internal governance aligned with responsible blockchain practices;Data protection compliance and insurance sector regulations in each country;Available upon request from UNICEF Venture Fund;https://www.unicefventurefund.org/portfolio/esus-farm, https://esusfarm.africa/;September 2023;October 2024;Active/Ongoing;Ethereum Mainnet;
+DPG Marketplace;An innovative fundraising mechanism to fund the development and deployment of DPGs;UNICEF;"Digital public infrastructure / Impact financing
+
+Integrations with Web3 based public goods fundraising mechanisms";-;-;Prototype might be gated, eventually open access to any funder or DPG;;Will soon be;"SDG 9 - Industry, Innovation, and Infrastructure; SDG 10 - Reduced Inequalities";;;$ raised, # of DPGs onboarded, # of solution seekers onboarded;Under development;;;;Global (but piloted in Sierra Leone);;;;;;-;-;;;;;Ongoing;EVM Compatible;
+AidLink;Open source toolkit for implementing digital asset transfers in aid value chains (scope limited by offramping partner jurisdiction);UNICEF;"Financial Inclusion and Digital Payments
+
+SMS wallet, beneficiary management module, Payment module, offramping integration, reporting";Rumsan, XCapit, KotaniPay;-;Eventually, tech stack will be open for anyone to customise;;Will soon be;SDG 1 – No Poverty;;;$ transferred, # of beneficiaries onboarded, # of transactions conducted;Under development;;;;global;;;;;;;;;;;;Ongoing;EVM Compatible;
+Bloinx;Crypto for more reliable savings communities among low-income populations;UNICEF;"Financial Inclusion and Digital Payments
+
+Smart contract-based savings circle management, decentralized transaction tracking, transparent rotation of pooled funds, on-chain reputation system, and integration with crypto wallets (e.g., Valora) using stablecoins like cUSD for predictable value.";BX Smart Labs;None;Public blockchain;;Yes;5,8;5.a.1, 8.10.1;Members of community-based savings groups in either or a combination of low-income and low digital litereacy settings;# of active savings groups using Bloinx, % of users completing onboarding (wallet setup + first payment), # of unbanked users onboarded, # of transactions per group per cycle, # of successful payouts/;Technical integration delays, smart contract and front-end development complexities, coupon system pilot failure, low digital and financial literacy among target users, perceived risk of crypto-based platforms, limited access to mobile phones and connectivity;"Personalized guidance at the onboarding stage is essential for adoption in low-literacy or non-crypto communities; strategic partnerships with merchants or financial actors should follow, not precede, the establishment of a strong and active user community; dependencies on third-party blockchain infrastructure (in this case, the Valora wallet integration) require proactive communication with partners and contingency planning to prevent project delays.";High, through its open-source infrastructure, rapid onboarding model, and expansion from Latin America to East Africa;Once users completed the initial onboarding process, over 80% were able to confidently manage savings cycles independently, supporting the platform's potential for sustained use. Feedback from community leaders reinforced the importance of peer support and hands-on onboarding in overcoming the crypto learning curve. The pilot phase also validated ability to replicate savings group behavior in digital form, with 100% of test users successfully creating and managing their savings circles using the platform’s smart contracts.;Venezuela, Burundi;"Seed stage design and prototyping 2021-2022; pilot deployment in Venezuela 2022; pilot Burundi 2024-2025";Built for blockchain;"ETH 18.8 (= USD 60K at time of contract) from Venture Fund seed investnment; USD 150K follow-on funding raised by the company";UNICEF Venture Fund, Clabs, other sources;PPPs and multi-stakeholder partnership for technical integration, distribution, implementation, and user onboarding.;UNICEF Venture Fund compliance requirements, Digital Public Goods Alliance (DPGA) framework, open source licensing (GNU AGPL v3.0 for frontend, BSD 3-Clause for smart contracts), Celo blockchain protocol governance.;Data protection and user consent considerations, smart contract audit transparency, and alignment with local cryptocurrency and financial regulations.;Available upon request from UNICEF Venture Fund;https://www.unicefventurefund.org/portfolio/bx-smart-labs-developing-decentralized-app-saving-circles, https://bloinx.io/;May 2021;Ongoing;Graduate from Venture Fund investment with continued engagement with the Fund;EVM L2, Celo;
+Convexity;Transparent digital cash and voucher transfer to beneficiaries through blockchain;UNICEF;"Financial Inclusion and Digital Payments
+
+Cash and Voucher Assistance (CVA), transparent fund transfers, vendor onboarding";Convexity;CHATS voucher/token system;Implied permissioned blockchain for NGOs, vendors, and beneficiaries;;Yes;SDG 1 – No Poverty;Indicator 1.3.1 – Proportion of population covered by social protection systems;Internally Displaced Persons (IDPs), women, children, people with disabilities (PLWDs);# of NGOs onboarded, households reached, transaction volume, vendor usage;Need for customized setup per organization, onboarding and trust issues;"Modular architecture improves adaptability; local partnerships enhance effectiveness";Strong. Demonstrated success through pilots reaching 400 households and secured partnerships with major humanitarian actors like Red Cross Nigeria, Mercy Corps, and Jhpiego. Recognition as a Digital Public Good.;Transaction data, demographic reach, partnerships secured;Nigeria;Seed stage investment with the Venture Fund and piloting 2022–2023;Built for blockchain (CVA platform);$54,000 (UNICEF), $14,500 (Roddenberry Foundation);UNICEF Venture Fund, Roddenberry Foundation;Public-private partnerships, technical collaboration with NGOs;Data governance managed by implementing partners inc ompliance with applicable data protection regulations;User consent, data privacy, information security protocols;Available upon request from UNICEF Venture Fund;https://www.unicefventurefund.org/portfolio/convexity, https://withconvexity.com/;December 2022;December 2023;Graduate;EVM L2;
+ZedLabs;Blockchain-based wallet for financial inclusion of underserved communities;UNICEF;"Financial Inclusion and Digital Payments, Climate Action
+
+Community reward systems, impact verification (HyperCerts), CSR fund disbursement";Zed Labs;Kolektivo Networking Token (KNT), HyperCerts;Public blockchain;;Yes;SDG 13 - Climate Action, SDG 17 - Partnerships for the Goals;Indicator 13.3.2 - Number of countries that have communicated the strengthening of institutional arrangements and stakeholder engagement for implementation of adaptation, Indicator 17.17.1 - Amount in United States dollars committed to public-private partnerships;Youth, schools, ecological asset producers, underserved communities;User adoption (600+ in Caribbean), number of redemptions, corporate funding mobilized, engagement events held;Skepticism around crypto, need for digital literacy, technical onboarding for new partners;"Local relevance and community rewards accelerate adoption; need robust, transparent verification for trust";Strong as demonstrated by multi-island pilots, low technical barriers for community participation, and decentralized climate financing.;"Target of 75–150 monthly active users in T&T pilot; 200 participants in climate initiatives";Regional – Caribbean (Curacao, Trinidad & Tobago);Seed investment with Venture Fund and live pilot in T&T 2023-2024 (previously tested in Curacao and other islands);Built for blockchain;$104.400,00;UNICEF Venture Fund;Multi-stakeholder – NGOs, businesses, government, schools;"Not explicitly stated; decentralized verification and open governance principles applied";Not specified, likely aligned with crypto and data policies in operating countries;Available upon request from UNICEF Venture Fund;https://www.unicefventurefund.org/portfolio/kolektivo-wallet, https://www.zed.io/;September 2023;October 2024;Graduate;Polygon;
+XOneFi;Equitable, affordable Internet access for remote and underserved areas;UNICEF;"Governance
+
+Decentralized Wi-Fi sharing, blockchain-based bandwidth tracking and allocation";Xmesh;None issued;Public blockchain (Polygon);N/A;Yes;"SDG 9 - Industry, Innovation, and Infrastructure; SDG 10 - Reduced Inequalities";Indicator 9.c.1 - Proportion of population covered by a mobile network, by technology;Small business owners, underserved communities, secondary school students;Deployment completed, >220 beneficiaries, 2 pilots, bandwidth up to 30mbps;Technical setup complexity, communication gaps with local staff, low engagement from some small businesses;Need for region-specific engagement and simplified network configuration tools;Yes – scalable in low-connectivity regions with satellite-based infrastructure;"Bandwidth availability improved; adoption in school pilot; system refinements in progress";Country level (Nigeria), potential for regional expansion;Seed stage design, prototyping, and piloting 2022-2023;Built for blockchain;$54,000 (Fiat) + 46.64 ETH (≈ $59,354.03);UNICEF Venture Fund;Public-private and local implementation partnership;"UNICEF Venture Fund open-source and DPG framework; local regulatory alignment";"Compliance with Nigerian communications regulations; open-source license (GPLv3)";Available upon request from UNICEF Venture Fund;https://www.unicefventurefund.org/story/xonefi-equitable-affordable-internet-access-remote-and-underserved-areas, https://www.unicefventurefund.org/portfolio/xmesh, https://www.unicefventurefund.org/story/insights-graduates-giga-blockchain-cohort;December 2022;December 2023;Graduate;Polygon (Ethereum Layer-2 sidechain);N/A
+WiiQare;An all-in-one digital platform for healthcare savings, payments, and remittances;UNICEF;"Financial Inclusion and Digital Payments
+
+Cross-border remittances for healthcare via NFT vouchers and smart contracts";WiiQare;NFT-based HealthPass, USDC (stablecoin);Public blockchain (Polygon);N/A;Yes;"SDG 3 - Good Health and Well-Being; SDG 10 - Reduced Inequalities";"3.8.2 - Large health expenditures as share of household income; 10.c.1 - Remittance costs";Patients in DRC, diaspora remitters, health clinics and pharmacies;39 users onboarded, 26 vouchers distributed, 15 redeemed, validated 15% commission model;"Power outages, crypto off-ramping limitations, local awareness, team capacity, regulatory challenges; setting where pilot was done was still heavily cash-based";Need for incentives for all stakeholders, offline workflows, simpler user onboarding;Model is replicable in other countries, but success will depend on the maturity of local digital payment ecosystems and the ability to convert between crypto and fiat in cash-dominant settings.;Successful voucher redemption, high user satisfaction, provider engagement;Country-level (DRC), regional interest (Cameroon, Mali);Seed investment with Venture fund and pilot from December 2022 to March 2024;Built for blockchain;$54,335.52 fiat + 78.162 ETH (~$55,383.65);"UNICEF Venture Fund; Circle 'Unlocking Impact' Prize ($25,000)";Public-private collaboration with health providers, Yellow Card for off-ramping;UNICEF OSS/Digital Public Goods guidance, Principles for Digital Development;"GDPR, KYC/AML via Authologic; crypto legality in DRC under review";Available upon request from UNICEF Venture Fund;https://www.unicefventurefund.org/portfolio/wiiqare, 0;December 2022;March 2024;Graduate;Polygon (Ethereum Layer-2);N/A
+The Atrium;"The Atrium is an interagency development sandbox designed to enable collaboration across UN agencies interested in experimenting with blockchain technology in a secure environment. The Atrium is comprised of two components; a storefront to share blockchain applications, and the underlying infrastructure to test those applications. It will enable members to share and easily launch blockchain applications, to vote on decisions as a community, and to receive badges that will unlock varying permissions within the platform.";UNICEF;Interagency Collaboration Platform;;;Private, permissioned blockchain network, dApp store for sharing applications;;;SDG 17;SDG 17.16;UN agencies and their stakeholders​;Number of agencies participating, number of applications developed and shared;Ensuring interoperability among diverse UN systems, managing data privacy concerns;The value of a shared platform for reducing duplication of efforts and fostering innovation;;Monitoring participation rates and application deployment success;Global;;;;UNICEF;Collaborative development among UN agencies​;;Alignment with UN data protection and privacy policies;;https://www.unicef.org/innovation/stories/blockchain-collaboration-across-un;2020;Ongoing;Active;;
+UNICEF Innovation Fund's Blockchain Investments;Launched in 2016, the UNICEF Innovation Fund invests in startups developing open-source, blockchain-based solutions to promote financial inclusion.;UNICEF;Financial inclusion and digital payments;;; Open call for startups to apply for funding;;;SDG 8, 9  ;SDG 8.3, 9.5;Startups focused on financial inclusion;Amount of follow-on funding raised, number of transactions processed;Regulatory compliance, scalability issues​;Need for robust legal frameworks, importance of stakeholder engagement;;Monitoring of financial transactions and user engagement;Global  ;Ongoing  ;;Varies per investment;UNICEF Innovation Fund;;UNICEF's internal policies on innovation funding;;Annual reports available on UNICEF's website;https://www.unicef.org/innovation/innovation-fund;2016;Ongoing;Active;;
+ Project Connect;Aiming to map every school globally, Project Connect assesses the quality of internet connectivity and explores blockchain for transparent financing and operational processes.;UNICEF;Financial transparency and efficiency, Governance;;;Open data access for stakeholders;;;SDG 4, 9;SDG 4.1, 9.1;Schools;Number of schools mapped, improvement in connectivity quality;Funding allocation transparency, stakeholder coordination;;;Monitoring of connectivity improvements and educational outcomes;Global;Ongoing;;;UNICEF, donor contributions;public-private partnership;;Data privacy laws;;https://www.unicef.org/innovation/project-connect;2019;Ongoing;Active;;
+Digicus: Blending the Old with the New;Digicus is a platform that digitizes financial processes using blockchain technology to enhance transparency and efficiency in fund transfers to partner organizations.;UNICEF; Financial Transparency and Efficiency;; Digicus token (ERC-20)​;Restricted to UNICEF and its implementing partners​;;;SDG 16;SDG 16.6;; Increased transparency in fund transfers, reduced transaction times;Integrating blockchain wallets into enterprise solutions, managing large smart contract sizes;the importance of seamless integration with existing financial systems and the need for user-friendly interfaces;;;Kazakhstan;;;;UNICEF;public-private partnership;UNICEF's internal policies on financial transparency and innovation​;;Documentation on Invent, terminal seed stage report with Venture Fund;https://www.unicef.org/innovation/blockchain/digicus;2019;Ongoing;Active;;
+Cryptofund;In 2019, UNICEF set up a cryptofund to be able to receive, hold and disburse fundings in cryptocurrencies, enabling both a better understanding of bockchain opportunities for the UNICEF, and an enhanced visibility and traceability for donors. ;UNICEF;Financial inclusion and digital payments;;None (but several cryptocurrencies supported: Bitcoin, Ethereum, Ripple, Monero, Dai, EOS, Litecoin, Dash, Stellar);Public blockchain;;;SDG 9, 10, 17;SDG 9.3, 9.5, 10.b, 17.3;UNICEF donators, UNICEF (in 2022, 21 projects funded through the cryptofund);"Funds disbursed by the fund (732.5 ETH + 3.13 BTC in 2022; 15M$ between 2019 and 2023), Amount of donations received";Increased uptake of the technology amonst receiving organizations;;;;Global;;;25.000$ in BTC and ETH (donated by the Ethereum foundation);Ethereum foundation (+ additional contributions from UNICEF, unknown amount);;;;https://www.unicef.org/innovation/stories/unicef-cryptofund;;Oct.19;;Ongoing;;
+Patchwork Kingdoms NFT Collection;"To commemorate its 75th anniversary, UNICEF launched the ""Patchwork Kingdoms"" NFT collection, comprising 1,000 data-driven artworks. Each NFT visualizes real-time data on school connectivity from over 280,000 schools across 21 countries. The initiative aims to raise funds for Giga, a joint project by UNICEF and the International Telecommunication Union (ITU) to connect every school to the internet.";UNICEF;Financial Inclusion and Digital Payments;;NFTs;Public blockchain;;Yes;SDG 4, SDG 9, ;4.a.1, 9.c.1;Children and schools lacking internet connectivity, primarily in developing countries;The initial NFT sale raised approximately $550,000, selling out within three hours. Secondary sales contributed an additional 20% through royalties, totaling over $700,000;"Educating potential donors unfamiliar with NFTs; ensuring equitable access to the NFT sale; addressing environmental concerns associated with blockchain technology";NFTs can serve as effective fundraising tools, engaging a new demographic of donors. Transparent and inclusive sales strategies can enhance participation and trust;"High; the success of this initiative demonstrates the potential for similar NFT-based fundraising campaigns within the UN system and beyond";Funds raised contributed to Giga's efforts, which have connected over 3,000 schools, benefiting more than 700,000 children.;Global;;;Over $700,000;"Proceeds from NFT sales; initial sales and secondary market royalties";Public-private partnerships involving UN agencies, artists, blockchain platforms, and private sector entities;"Guided by UNICEF's internal policies and frameworks; collaboration with partners ensured adherence to ethical and technical standards";;Detailed information available on UNICEF's official website and Giga's platform;https://giga.global/patchwork-kingdoms/;Dec.21;;;;
+Lido Impact Staking (LIS) Model;Lido Impact Staking (LIS) is an innovative financing model that enables Ethereum (ETH) holders to stake their assets and allocate a portion of their staking rewards to fund social impact projects, such as UNICEF's Giga initiative. Donors retain ownership of their principal while contributing to sustainable funding streams for global school connectivity.;UNICEF;Financial Inclusion and Digital Payments;Third Party Team;wstEth;Open to ETH holders;;No;SDG 4, SDG 9;4.a.1, 9.c.1;Schools and students in underserved regions;"73.8 ETH staked; funds raised; schools connected";"Crypto volatility; regulation; education on staking";Staking can support sustainable social impact;High;Funds raised contributed to Giga's efforts, which have connected over 3,000 schools, benefiting more than 700,000 children.;Global;;;<$1000;Donations through Ethereum staking rewards;Public-private;"Guided by UNICEF's internal policies and frameworks; collaboration with partners ensured adherence to ethical and technical standards";;;https://stake.giga.global/;2025;;Ongoing;;
+Giga Token;Incentivizing school connectivity through blockchain;UNICEF;"Governance
+
+Token-based incentive tracking for school connectivity (prototype phase)";Investtools;"No token issued; Giga token model was prototyped but not launched";;;Yes;4, 9;4.a.1 - Proportion of schools with access to electricity, internet, computers;Schools, education ministries, local ISPs;"Proof of concept completed; successful prototype on testnet";Barriers include technical integration with existing infrastructure and incentive alignment;Need for early validation with real users and simple UI for public dashboards;Yes – applicable to other countries scaling school connectivity initiatives;Not measured in KPIs but validated through stakeholder feedback and Giga planning;Global (but piloted in Sierra Leone);Seed stage design, prototyping, and piloting 2022-2023;Built for blockchain;USD 40K and ETH 51,8339 (contract value $65,963.78);UNICEF Venture Fund;Public-private partnership (UNICEF + national governments);Giga Token working group norms and UNICEF open-source requirements;Compliance with national blockchain and education data privacy standards;;https://www.unicefventurefund.org/story/giga-token-investtools-project-incentive-connectivity-schools-around-globe, https://www.unicefventurefund.org/portfolio/investtools, https://www.unicefventurefund.org/story/insights-graduates-giga-blockchain-cohort;December 2022;December 2023;Graduate;;Not applicable (testnet used)
+ZLTO platform Linking Youth to the Future of Work - South Africa;Blockchain technology to give online rewards for volunteering, learning, and doing good;UNICEF;"Digital Identity, Financial Inclusion and Digital Payments
+
+Tracking good deeds, skills development, micro-credentialing";ZLTO;Zlto (reward points/utility token);;Youth protection, centralized governance, performance needs;No;SDG 4 - Quality Education, SDG 8 - Decent Work and Economic Growth;Indicator 4.4.1, Indicator 8.6.1;Youth, jobseekers, volunteers;500,000+ users onboarded, national partnerships secured, number of Zlto transactions logged;Digital divide, mobile data cost, administrative burden for partners;"Gamified and user-centric designs improve youth engagement; strategic public-private partnerships accelerate scale";Strong local validation, formal partnerships with government and private sector;User growth, redemption rates, employment and education outcomes;South Africa;2020-2023 from seed investment with Venture Fund;Built for blockchain;"$200,000 seed from Venture Fund; $750,000 follow-on raised";UNICEF Venture Fund;Public-private partnerships, collaborative social ventures;Aligned with local government youth employment frameworks;Data privacy compliance, platform accountability for minors;Available upon request from UNICEF Venture Fund;https://www.unicef.org/southafrica/take-action-join-tippytapchallenge, https://www.unicef.org/innovation/stories/allans-story-dignity-through-online-rewards;September 2020;December 2023;Graduate;;Likely a private implementation for Zlto platform
+Blockchain-Based Financial Registry for Youth members of solidarity groups – Burundi;Blockchain registry for transparent records of savings, loans, and transactions, boosting creditworthiness for obtaining consistent loans.;UNICEF;Financial Inclusion and Digital Payments;BX Smart Labs;-;Public blockchain with custodial wallet access;;Unknown;1,8;1.4.1, 8.10.2;;# of youth members onboarded, # of transactions logged, # of data shares to MFIs, # of loans obtained by youth;Solidarity groups found it acceptable to adopt, challenges exist in partnerships with local MFIs to accept blockchain data to sanction loans, wont work in zero internet conditions unless someone travels to an area with internet to allow sync with blockchain;Still under implementation;The solidarity group app is already scaled to 9 solidarity groups as of this writing, the MFI scalability needs iteration;;Burundi (for now);;;;;;;;;https://www.unicefventurefund.org/portfolio/blockchain-based-financial-registry-youth-members-solidarity-groups-burundi, 0;September 2023;September 2024;Active/Ongoing;;
+UNICEF Nepal blockchain pilot from 2022;Tracking the movement of fiat currencies through social protection value chain;UNICEF;"Financial Inclusion and Digital Payments
+
+Tokenisation of cash, tracking of cash, wallet compatibility with smart phones and feature phones and no phones (QR code)";Rumsan;Tokens for representing Nepali Rupee;Permissioned blockchain with custodial wallets;Cryptocurrencies are illegal in Nepal;Yes;SDG 1, 10, 16;SDG 1.1, 10.2, 16.6;;# of beneficiaries onboarded, Amount of cash tracked, Amount of cash reconciled, Speed of response to beneficiary grievances etc.;https://www.unicefventurefund.org/story/theory-practice-lessons-nepals-blockchain-cash-transfer-pilot;https://www.unicefventurefund.org/story/theory-practice-lessons-nepals-blockchain-cash-transfer-pilot;https://www.unicefventurefund.org/story/theory-practice-lessons-nepals-blockchain-cash-transfer-pilot;;Nepal;;;$148.6K from Venture Fund;Venture Fund, UNICEF Nepal allocated about $140K;Public-private partnership;Aligned with UNICEF Nepal guidelines;;https://www.unicefventurefund.org/story/theory-practice-lessons-nepals-blockchain-cash-transfer-pilot;https://www.unicefventurefund.org/story/theory-practice-lessons-nepals-blockchain-cash-transfer-pilot;;;Completed;;Enterprise Ethereum
+Giga Blocks;Giga Blocks is an initiative to tokenize school data by putting its data on-chain in the form of ERC-271 tokens;UNICEF;Financial Inclusion and Digital Payments;Protofire;NFTs;Public blockchain;;Yes;SDG 4, SDG 9;4.a.1, 9.c.1;Schools and students in underserved regions;"Schools Minted; funds raised; schools connected";"Crypto volatility; regulation; school asset governance";On-chain anchoring of decentralized storage is technically feasible;High;Not launched yet;Global;execution;;;UNICEF, donor contributions;Public-private;"Guided by UNICEF's internal policies and frameworks; collaboration with partners ensured adherence to ethical and technical standards";;;https://blocks.giga.global/;2025;;To be launched in 2025;;
+Development of the SMS based wallet by Xcapit;SMS based wallet with modern account abstraction backend to enable high programmability and reach to beneficiaries with feature phones. Xcapit is a self-custodial, open-source Web3 wallet designed to enhance financial inclusion in Latin America. It offers wealth management tools, financial planning, low- and middle-risk investment options, and gamified financial education. Users can also make transparent cryptocurrency donations to various causes. Within its first two months, Xcapit onboarded over 14,000 users, primarily from Mexico and Argentina.;"UNICEF
+
+Startup Investment";"Financial inclusion and digital payments
+
+Account Abstraction, Custodial Wallet, MPC extendable, Programmable with extra features for UN application (e.g. whitelisting etc.)";XCapit;;Beneficiaries invited to use wallet through SMS;;Will soon be;SDG 8, 9, 10;;760323 Unbanked individuals in Latin America, particularly in Mexico and Argentina;"Uptime, # of new features funded, # of discussions held; Over 50,000 users across 85 countries, 500,000+ beneficiaries, partnerships with educational and financial institutions";"Community engagement; Building trust in digital financial services, ensuring user-friendly design, addressing regulatory considerations";"Community manager is critical, integrations with tools can help smoothen the process, Github is sufficient for code reviews etc.; The importance of user-centric design, benefits of open-source collaboration, need for financial education in target regions";Good, if approvals for usage of digital assets for broader usecases is obtained;This was a technology pilot. User growth metrics, financial literacy improvement rates, donation transparency levels;Latin America, with initial focus on Mexico and Argentina;received growth funding in 2024;;"43.8 ETH (approximately $112,000 USD) from UNICEF; additional $1.8 million in follow-on funding";UNICEF, private investors;public-private partnership;Follows Primero policies. Open-source development model, adherence to ISO 27001 standards;;https://www.unicefventurefund.org/story/xcapit-smart-crypto-wallet-social-impact-and-financial-literacy-and-inclusion ;https://xcapit.com/;2021;Ongoing;Ongoing;L2 (Polygon);
+Kotani Pay;Kotani Pay is a payment platform that provides a fiat-to-stablecoin on-ramp and off-ramp to local payment channels in Africa. It enables blockchain protocols, dApps, and fintechs to integrate payment solutions into their applications, websites, or web plugins.;"UNICEF
+
+Startup Investment";Financial inclusion and digital payments;;Celo Dollar (cUSD);API and USSD-based integration;;;SDG 1, 8, 10;SDG 1.4, 8.10;Unbanked populations in Africa;Number of users onboarded, transaction volume, partnerships established;Regulatory compliance, internet connectivity issues;Importance of mobile-first solutions in regions with limited internet access;High, with plans for expansion across Africa;User adoption rates, transaction success rates;Kenya, Rwanda, Uganda;Launched in 2024, ongoing development;;Raised $2 million in pre-seed funding;;Collaborations with fintech companies and mobile money operators;Adheres to local financial regulations and international best practices;;https://www.unicefventurefund.org/story/kotani-pay-increasing-access-financial-instruments-using-blockchain-and-cryptocurrency#:~:text=KotaniPay%20is%20a%20middleware%20technology%20service%20that%20enables,a%20majority%20of%20the%20population%20in%20developing%20countries. https://docs.kotanipay.com/;https://kotanipay.com/;2024;Ongoing;Ongoing;;
+Utopixar – The Conscience Project;Utopixar, a Tunisian startup funded by UNICEF’s Venture Fund, created a blockchain-powered tool to encourage youth participation in social innovation by tracking proposals and community contributions transparently.;"UNICEF
+
+Startup Investment";Social Impact, Civic Engagement;;internal token to facilitate voting and decision-making;Public participation platform designed for youth groups and civic communities;;;SDG 16, 11;SDG 16.7, 11.3;Youth groups in developing countries, civic communities;Number of active users, number of community proposals submitted and acted upon;;Youth engagement increases when they can see a clear impact from their contributions;;Number of civic proposals submitted, funded, and implemented;"Initially Tunisia; with pilot extensions in other regions through UNICEF country offices";"Funded in 2018–2019; now considered a graduated project";;"$107,917 (initial seed investment from UNICEF);";UNICEF Venture Fund;public-private partnership;Open-source governance model guided by UNICEF Venture Fund policies;Compliance with UNICEF’s digital and child protection policies;;https://www.unicefventurefund.org/story/utopixar-using-blockchain-technology-inspire-young-people-become-local-changemakers;2018;2019;;;
+Treejer;Treejer is an open-source blockchain-based reforestation platform that connects funders with rural planters to support climate action in low-income communities. It uses smart contracts to ensure transparency and accountability in tree planting efforts. ;"UNICEF
+
+Startup Investment";Climate action;;Oxygen (O2);Open-source platform with mobile and web interfaces;;Yes;SDG 13, 15;SDG 13.2, 15.2;Rural communities in Latin America, Africa, and the Middle East;Number of trees funded, climate credits issued, community engagement levels;Ensuring tree survival rates, scaling the platform;The importance of community involvement in reforestation efforts;;Carbon offset achieved, number of active users;;Launched in 2024, ongoing development;;;;public-private partnership;;;;https://treejer.com/;2024;Ongoing;Active;;
+OS City;OS City is a platform that enables the issuance of tamper-proof digital certificates using blockchain technology. It aims to increase transparency, preserve data integrity, and accelerate the use of portable records in the public sector and informal economy. The platform allows users to create certificate templates and issue digital certificates without the need for technical knowledge on blockchain.;"UNICEF
+
+Startup Investment";Governace;;;Open to public institutions, universities, and artisans in Latin America;;;SDG 9, 16;SDG 9.5, 16.6;Public institutions, universities, artisans, and informal economy workers in Latin America;Issued over 10,000 certificates, reaching a population of 650,000 across Argentina, Mexico, Chile, and Costa Rica;Bureaucratic hurdles, varying levels of digital literacy, resistance to adopting new technologies;;;Number of certificates issued, user engagement levels, institutional adoption rates;Argentina, Mexico, Chile, Costa Rica;Graduated from UNICEF's Venture Fund;;;;;;;;;;;;;
+Amply ;Amply is a blockchain-based digital identity protocol designed to replace paper-based attendance records in South African Early Childhood Development (ECD) centers. By providing each child with a self-sovereign digital identity, the system enables accurate tracking of attendance, which can be tokenized and used to claim government subsidies, enhancing transparency and efficiency in funding processes.;"UNICEF 
+
+Startup Investment";Digital Identity, Governance, Financial Inclusion and Digital Payments;;Impact Tokens representing verified attendance claims;Permissioned blockchain;;;SDG 4, SDG 16;4.2.1, 16.6.2;Children under 6 years attending ECD centers in South Africa, particularly those from low-income families;"Over 61,000 digital attendance records created across 85 ECD centers; reduction in administrative burden; improved accuracy and timeliness of subsidy claims";"Resistance to digital adoption among some ECD centers; need for government acceptance of digital records; ensuring data privacy and security";"Importance of stakeholder engagement and training; necessity for government policy alignment; scalability depends on infrastructure readiness";"High; potential to expand to other regions and integrate with additional social services like healthcare and nutrition programs";Initial indicators show improved efficiency in subsidy disbursement and data accuracy;South Africa, primarily Western Cape with some centers in Johannesburg and Durban;"Pilot phase initiated in November 2016; ongoing with plans for expansion";;"Initial funding of up to $100,000 from UNICEF Innovation Fund; additional support from Innovation Edge";UNICEF Innovation Fund, Innovation Edge, Omidyar Network, UBS Optimus Foundation;Public-private partnerships involving UN agencies, local startups, NGOs, and government departments;Guided by UNICEF's innovation policies and South African government regulations;"Compliance with South African data protection laws; emphasis on data privacy and user consent";https://blockchan.ge/blockchange-early-childhood-development.pdf;;Nov.16;;Ongoing;;
+Rahat - A blockchain-based platform for aid distribution and anticipatory action;"Extending the Rahat platform to be capable of transferring cryptocurrencies in humanitarian/social protection cash transfers. Rahat is a blockchain-based digital cash and voucher assistance (CVA) management system developed by Rumsan. It aims to enhance transparency, accountability, and efficiency in the distribution of humanitarian aid, particularly in hard-to-reach areas. The system allows for mobile-based blockchain tokens to manage and monitor aid transactions during emergency response and recovery programs.
+
+Rahat is an open-source, blockchain-based platform that enables humanitarian agencies to distribute and manage digital relief through tokens. It supports vulnerable communities by delivering timely, anticipatory cash and voucher assistance, helping them build resilience against climate shocks.
+
+Rahat is a graduate of the UNICEF Venture Fund’s seed stage program, where it improved its main CVA platform and successfully ran a pilot in Jaleswar. It is now part of the fund’s growth stage cohort, working on moving from private digital tokens to crypto-based aid and scaling its humanitarian and anticipatory action system to reach more people.";"UNICEF - Nepal
+
+Startup Investment";"Financial inclusion and digital payments
+
+Multi modal digital asset treasury options, integrations with Offramps, Integrations with Anticipatory action modules (in the future), beneficiary management, reporting
+
+- Anticipatory Action Smart Contracts: Automated smart contract triggers are used to initiate aid distribution and early warning messages based on predefined early warning indicators (e.g., weather data, risk thresholds).
+- Secure Multisig Wallets: Implements Gnosis SAFE multisig wallets to manage fund approvals, adding an extra layer of security and requiring multiple signatories for any transaction.
+- Transparent Cash Distribution: Aid disbursements are recorded on-chain and can be tracked through a block explorer, ensuring transparency and accountability.
+- Stable Digital Currency: Utilizes stablecoins (e.g., USDC) to maintain the value of aid and minimize volatility during distribution.";Rumsan;"tokens for aid distribution (blchn-based)
+ERC-20";Public & Private blockchain Open to vulnerable communities in Nepal, particularly in flood-prone areas;Crypto regulation in Nepal;Yes;SDG 1, 10, 16;SDG 1.1, 10.2, 16.6;"56151
+
+5,000 Vulnerable families in Jaleshwor Municipality, Mahottari District, Nepal";"# of beneficiaries reached, amount of digital assets transferred. Over 5,000 beneficiaries reached during pilot phase
+
+1.a - # of humanitarian agencies onboarded yearly
+1.4 - # of beneficiaries who were trained on digital literacy
+1.4 - # of vulnerable beneficiaries who received access to finance via Rahat tokens
+1.4 - Total value of financial aid mobilized to vulnerable people per year
+1.5 - # of beneficiaries at risk of climate shocks and are supported via Rahat platform per year
+5.5 - Women in managerial positions per year
+5.5 - Proportion of women in managerial positions
+9.c - # of communications sent from Rahat";Under development. During seed funding stage, regulatory restrictions on public blockchain use, ensuring offline functionality in remote areas, building trust among beneficiaries;"- Blockchain Enhances CVA: Blockchain shows strong potential to improve transparency, reduce fraud, and accelerate aid delivery in Cash and Voucher Assistance (CVA) programs.
+- Context Matters: Solutions must be adapted to local infrastructure, regulations, and beneficiary needs to be effective.
+- User-Centric Design: Interfaces should be simple and accessible for both beneficiaries and administrators to ensure adoption.
+- Collaborative Approach: Strong partnerships between humanitarian agencies, local organizations, and tech providers are vital for success.
+- Data Protection is Crucial: Privacy and security of beneficiary data must be prioritized in all implementations.
+- Scaling is Complex: Expansion of blockchain-based CVA requires strategic planning, resources, and infrastructure readiness.
+- Guidance for the Future: Clear procedures, strong M&E frameworks, and local capacity building are essential for future implementations.
+For more details - https://www.unicef.org/nepal/media/21181/file/Evaluation%20of%20Rahat%20-%20Summary.pdf";"- Open-Source
+- Globally Deployable
+- Modular & Interoperability
+- Crypto Ready
+- Language & Localization Support";"Evaluation of pilot effectiveness, transparency, scalability, and cost-effectiveness
+
+- Transparency & Fraud Reduction
+- Efficiency, Resource coordination & Cost-Effectiveness
+- Aligned with Local Context
+- High Acceptance from the Users
+https://www.unicef.org/nepal/media/21181/file/Evaluation%20of%20Rahat%20-%20Summary.pdf";"Inovation Seed Phase (community)- Jaleshwor Municipality, Mahottari District, Nepal
+
+Growth Phase (global) - Global";"Seed stage pilot with UNICEF Nepal completed in 2023; currently mid growth-investment prototyping and piltoting with Venture Fund
+
+Rumsan FP stated: Seed phase completed in early 2021
+
+Growth phase started in early 2024 and ongoing";Blockchain-based humanitarian aid, crypto aid and anticipatory action project;"Total of over $383K in seed and growth funding (fiat and crypto)
+
+Rumsan FP stated:
+Innovation Fund - USD 100,000
+
+Growth Fund - USD 150,000";UNICEF Innovation Fund;public-private partnership;"Nepal's cash distribution framework, Crypto framework	";Compliance with local regulations on digital payments, data privacy and crypto;Jaleswor Evaluation report - https://www.unicef.org/nepal/media/21181/file/Evaluation%20of%20Rahat%20-%20Summary.pdf;"www.rahat.io
+github.com/rahataid
+https://www.linkedin.com/company/rumsan";"2023
+
+Rumsan FP stated: May 2021";Ongoing;Active;NA;EVM private chain
+Connectivity Credits;A mechanism to reward ISPs with tokenized credits for connecting public schools to the internet. These credits can be redeemed for incentives such as payments, infrastructure capacity, or tax benefits.;UNICEF (via Giga initiative);Digital public infrastructure / Impact financing;;"Non-transferrable utility tokens representing verified connectivity service delivery (""Connectivity Credits"")";Permissioned access for accredited ISPs;;;SDG 4, SDG 9, SDG 17;4.a.1, 9.c.1, 17.6.1;Public school students, teachers, local ISPs, national education systems;Number of schools connected, cost per school connected;Data verification, regulatory buy-in, financial sustainability of ISPs, procurement alignment, ISP liquidity gaps;;;;Kenya, Malawi, South Africa, Mexico (pilot countries);"Design and prototyping (2023–2024)
+Pilot deployment (2025)
+Scaling phase (2026 onward)";;;;Results-based financing, vendor marketplaces, public-private partnerships;;;;https://connectivitycredits.org;2025 (pilot rollouts);Ongoing;"Pilot phase; actively onboarding partners and launching in Kenya, Malawi, Mexico and South Africa in 2025";;
+Crypto Stamp Marketplace;The Crypto Stamp Marketplace, developed by the UPU’s .POST Group in partnership with STAMPfinity, is a global blockchain-based platform for issuing and trading digital stamps (NFTs). It modernizes traditional philately by enabling secure authentication and global access. The initiative aims to attract younger audiences and support postal digital transformation.;UPU;Financial inclusion and digital payments;;MATIC (Polygon);Public blockchain;;;SDG 8, 9, 11;SDG 8.3, 9.1, 11,4;Stamp traders;Volume of stamps exchanged, Number of active users;NFT regulations as rare digital assets;;Global, might be applicable to other sectors of rare good trades;;Global;;;;;public-private partnership;;Compliance with international philately regulations;;;02.Dec.20;;Ongoing ;;
+Building Blocks - Beneficiary-centric, blockchain-based network for inter-agency coordination of humanitarian assistance ;Building Blocks (BB) is a blockchain network optimized for humanitarian and development use cases. BB is designed for inter-organizational collaboration, coordination and preventative de-duplication to optimize and harmonize assistance by providing a 360° view of which agency is reaching which recipients and with what assistance, ensuring collective assistance is coordinated and equitable, and access to support is also simplified and more convenient.;WFP;"Financial inclusion and digital payments
+
+On top of the BB blockchain network, various applications or ‘smart contracts’ of interest to the humanitarian community can be built, made available for free to all network members. Network member WFP has developed a robust and powerful financial value transfer application that facilitates the transfer of value which can be saved, traded and/or consumed, such as food, cash, WASH, medicine and more. New applications optimized for other use cases, for example the transfer of value through information such as Digital ID and Supply Chain, could also be deployed by network members.";WFP & third party developer partnerships;Tokens for aid distribution (blchn-based);"Private, permissioned EVM; participation through engagement as a BB network member under a governance framework.
+
+Alternative route in some operations, BB is made available as a free-of-charge service to the humanitarian community through participation in Cash Working Group (CWG), Food Security & Livelihoods (FSL) and other clusters. ";For transaction throughput, cost, and privacy reasons, BB runs on a private-permissioned blockchain, enabling an increase in transaction throughput beyond current and anticipated near future needs, on-chain transaction cost of zero, block (confirmation) time of 5 seconds, and the information on BB to only be visible to its approved humanitarian members. ;"No, BB is currently not open source though built on many open-source components.
+
+All smart contracts on BB are available for free to other full BB network members.";SDG 17;SDG 17.6, 17.7, 17.16, 17.17;"Supporting >4.92 million households affected by conflict in Ukraine since May 2022. ​
+
+Launched in Syria operations November 2024, and Palestine in March 2025, previously Lebanon in 2020. 
+
+Assisting 1 million Syrian and Rohingya refugees in Jordan and Bangladesh through online transfer management since 2017 and 2020. ";"6 million people supported
+
+US$760 million in cash-based redemptions processed 
+
+US$230 million in unintended assistance overlap prevented 
+
+80+ organisations collaborating 
+
+US$3.5 million in bank fees saved";"Platform scalability to meet demand (especially in UKR and BGD).
+
+Effective coordination between disparate humanitarian organisations.
+
+Achieving widespread adoption of the solution with full network members.
+
+Identification and prevalence of beneficiary individual common identifiers.";The importance of collaboration among humanitarian agencies, the need for robust data security measures, and the potential of blockchain to enhance transparency and efficiency in aid distribution.;"High scalability potential, as evidenced by expansion to multiple countries and integration with various humanitarian organizations.
+
+Potential to scale to more humanitarian operations with current value transfer application, inter-agency deduplication of assistance and redemption harmonisation use cases. 
+
+Potential for full network members to develop and deploy additional applications for new contexts and use cases.";"People served; cash-based redemptions processed; unintended assistance overlap prevented; organisations collaborating; bank fees saved";Platform currently deployed in Jordan, Bangladesh, Ukraine, Syria and Palestine. ;Plaform operational since 2018 and continuing to scale.;Built for blockchain;"Ongoing operations funded by WFP Country Offices. 
+
+Central ECHO ERC funding received in 2025 for “Leveraging Building Blocks as a decentralized, non-proprietary system for inter-organizational collaboration and efficiency.”";Joining the BB network as a full network member is free and all smart contracts on the network are free for all members, to ensure investments into the network synergistically benefit all members, and we avoid re-creating the same features multiple times in disparate systems. WFP additionally makes its BB infrastructure, backend, and mobile application code available for free to all members. ;Collaborative model involving multiple humanitarian organizations (UN and INGOs with a demonstrated history of the do-no-harm principles) sharing a common blockchain platform to coordinate aid distribution.;"Governance framework for full network members. 
+
+CWG / cluster membership confirmation and completed individual user access form for alternative route. ";Data privacy laws (specific to each country deployment).;Information available on the Building Blocks website, further detail available upon request;https://www.wfp.org/building-blocks;"Proof of concept: Pakistan Jan 2017
+
+Pilot: Jordan May 2017
+
+Scaled Operations: Jordan Jan 2018
+Bangladesh March 2021
+Ukraine May 2022";Ongoing;Active;N/A;Parity / OpenEthereum, work underway to transition to an alternative Ethereum client (either Nethermind or Hyperledger Besu)
+Etherisc – Blockchain-Based Insurance for Smallholder Farmers ;Etherisc is a blockchain-based technology platform which allows end-to-end automation of parametric insurance products. The platform produces a single source of real-time claims data while removing the need for each stakeholder to separately verify weather data before claims are paid out. This automation enables claims to be paid faster while cutting costs. Leveraging blockchain's real-time transaction tracking also enhances transparent monitoring for all stakeholders;WFP;"Financial inclusion and digital payments
+
+Trust among different parties involved in an insurance product";Etherisc;N/A;Public;N/A;Yes;SDG 1, 2, 10, 13;;"Smallholder farmers, particularly in developing countries who face financial risk from crop failures due to climate change.
+
+38,500 people reached";Number of farmers covered by insurance, Perception of a more trustful insurance process;Coordinate in a short period of time the work from the insurance company, reinsurance company and Etherisc.;Getting written buy-in and understanding upfront when the new process requires change in the core processes of the involved companies.;The blockchain solution can be expanded to other regions and agricultural sectors, particularly as mobile connectivity increases.;The project generated partial results. The ultimate goal would be the creations of a more efficient and affordable microinsurance product, ultimately leading to less financial losses in agricultural production and enhanced resilience of smallholder farmers to climate risks.;"Burkina Faso
+
++Potentially Kenya";Closure;;;"Donations from governments and partnerships with tech firms.
+";Public-private partnership;;Legal frameworks to recognize blockchain-based insurance might need adaptation in different countries.;;https://innovation.wfp.org/project/etherisc ;2023;2024;Closure;Polygon L2;
+"Programme name: EMPACT (EMPowerment in ACTion)
+ Initiative: Digital Microwork";EMPACT provides digital skills training, including technical, English language, and soft skills, to vulnerable youth, connecting them to online work opportunities to improve their livelihoods.;WFP;"Financial inclusion and digital payments
+
+Financial payments for livelihood opportuities";;Digital tokens for micropayments;Public;;;SDG 1, 4, 8, 9;4.4 - 4.4.1;13,512 youth across seven countries, including Kenya, Iraq, Lebanon, Turkey, Colombia, Palestine, and Zimbabwe.;Training completion rate of 98%, with 60% of graduates earning income through online work.;Financial exclusion, lack of digital literacy, and limited access to formal financial institutions.;"New players are entering the market offering very low paid (below minimum wage) jobs to the data labelers. Most big companies buy these services bcs they are low-cost, supporting below minimum wage work. There is a lack of regulations. 
+ EMPACT and Digital Microwork will have a demand crisis as they train participants to offer them =/+ minimum wage jobs and discourage participants to accept underpaid jobs.";Scalability potential is high since there was a consortium/group of companies involved. due to limitations on integrating such technology within UN institutions at the time, the project faced a lot of challenges. however as policy constraints evolve, scalability within our sector could also be easy.;Key performance indicators include training completion rates, income generation post-training, and participant satisfaction.;"Programme coverage: Kenya, Iraq, Lebanon, Turkey, Colombia, Palestine, Zimbabwe.
+ 
+ Blockchain project pilot: Kenya";"Programme Launched in 2016, the project has completed its lifecycle with the WFP Innovation Accelerator
+ 
+ Blockchain project: 2021 - 2022";;"€2 million donation from Belgium to support blockchain initiatives, including EMPACT.
+ 
+ USD 100,000 for the pilot project from the accelerator";Donations from governments and partnerships with tech firms.;Public-private partnerships;;Legal frameworks to recognize blockchain-based payments might need adaptation in different countries.;"https://announcements.asx.com.au/asxpdf/20220224/pdf/456bjczfhh2wzh.pdf
+ 
+ https//youtu.be/YgNOba9A18U
+ 
+ https://www.f6s.com/account/dashboard/download-application-file/1422044/1113390";;2021;2022;Completed;;
+Grassroots Economics;Comunity Inclusion Currencies for Food Security;WFP;"Financial inclusion and digital payments
+
+Tokenization and traceability";"Grassroots Economics
+";Community Inclusion Currencies (CICs);Public to visualization;Lack of scalability on Ethereum on that time, control of fees;;SDG 1, 2, 10, 11;;Local communities;Number of people reached, KPIs to measure cash assistance with or without CICs;Measure the impact with and without CIC, scalability;;Hard to scale since requires community trust and adoption, also lack of legal clarification;;Kenya communities;Completed;;;Donations from governments and partnerships with tech firms.;Public-private partnerships;;Need of legal clarification for CIC;https://www.grassrootseconomics.org/wfp-kitui;;2021;2022;Completed;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
